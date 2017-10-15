@@ -1,0 +1,266 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="false"
+        jar="C:\Users\Administrator\.android\build-cache\aaf61027e293d634666455b54df484cada870fe5\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.1"
+        sha1="44ee06abb66da30f5855e6bf54574e64cdcd982a">
+        <dex dex="F:\java\MyApplication\app\build\intermediates\pre-dexed\debug\classes_ac75a71d7d7a3ba6df2d4368aced4054cb0cef77.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Administrator\.gradle\caches\modules-2\files-2.1\org.jetbrains.anko\anko-appcompat-v7-coroutines\0.10.0\2f50c191d1483b1e11288b77b641ed77bab7be68\anko-appcompat-v7-coroutines-0.10.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.1"
+        sha1="2f50c191d1483b1e11288b77b641ed77bab7be68">
+        <dex dex="F:\java\MyApplication\app\build\intermediates\pre-dexed\debug\anko-appcompat-v7-coroutines-0.10.0_608c9901ee777cc846976bc14376ac5a06717ac1.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Administrator\.gradle\caches\modules-2\files-2.1\org.jetbrains.anko\anko-sdk25\0.10.0\3637dde1d95311e16683adf8e99f717fe0ce39b0\anko-sdk25-0.10.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.1"
+        sha1="3637dde1d95311e16683adf8e99f717fe0ce39b0">
+        <dex dex="F:\java\MyApplication\app\build\intermediates\pre-dexed\debug\anko-sdk25-0.10.0_1143834d2d479110a4223235bc75e4737c3a25b5.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Administrator\.gradle\caches\modules-2\files-2.1\org.jetbrains.anko\anko-commons\0.10.0\3de0694cacc8fb6f118091c7ae1ec6540047ed0d\anko-commons-0.10.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.1"
+        sha1="3de0694cacc8fb6f118091c7ae1ec6540047ed0d">
+        <dex dex="F:\java\MyApplication\app\build\intermediates\pre-dexed\debug\anko-commons-0.10.0_66c687f791f8eb6b0a07600541d6da2c05fb5527.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Administrator\.android\build-cache\00cd47b47c1881a8710ddbeaafd5940a0982a81e\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.1"
+        sha1="18d31838aa4fcc768a8a0516e22cc13b94655d89">
+        <dex dex="F:\java\MyApplication\app\build\intermediates\pre-dexed\debug\classes_ba21a8983b53adf135b5dae031f7e2700ca2b41f.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Administrator\.gradle\caches\modules-2\files-2.1\org.jetbrains.kotlin\kotlin-stdlib\1.1.51\e34fe80c9714240525f665113dd3749415515655\kotlin-stdlib-1.1.51.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.1"
+        sha1="e34fe80c9714240525f665113dd3749415515655">
+        <dex dex="F:\java\MyApplication\app\build\intermediates\pre-dexed\debug\kotlin-stdlib-1.1.51_fcc1bf8dd162248c7ba14d76cc1a6323685edb4a.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Administrator\.android\build-cache\bd301fd8213cc8102725a26163a9f3120fe76472\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.1"
+        sha1="8df0e365e40beb151bc42dee20817721a6cab7b0">
+        <dex dex="F:\java\MyApplication\app\build\intermediates\pre-dexed\debug\classes_f927399fa111741e577e04a81acb57302c539316.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Administrator\.gradle\caches\modules-2\files-2.1\org.jetbrains.kotlin\kotlin-stdlib-jre7\1.1.51\8b5933578dc55f32cfc1a25f1db6371e4161fb8f\kotlin-stdlib-jre7-1.1.51.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.1"
+        sha1="8b5933578dc55f32cfc1a25f1db6371e4161fb8f">
+        <dex dex="F:\java\MyApplication\app\build\intermediates\pre-dexed\debug\kotlin-stdlib-jre7-1.1.51_b0157c017e1651f30f26692228b24236852399f6.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Administrator\.android\build-cache\bccfd75add9f499fb14c63af394acc77471108b3\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.1"
+        sha1="d7c42c80f6509b9ea4db28ca7859ffae08ec5741">
+        <dex dex="F:\java\MyApplication\app\build\intermediates\pre-dexed\debug\classes_29082942d3208ef50f3e71396851356ef70b07fa.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Administrator\.gradle\caches\modules-2\files-2.1\org.jetbrains.anko\anko-sqlite\0.10.0\874e9f699618a33baf77bc2a9541448e8fcc1e3b\anko-sqlite-0.10.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.1"
+        sha1="874e9f699618a33baf77bc2a9541448e8fcc1e3b">
+        <dex dex="F:\java\MyApplication\app\build\intermediates\pre-dexed\debug\anko-sqlite-0.10.0_75d378f19388537ae93ff606551332ac4b3562f2.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Administrator\.gradle\caches\modules-2\files-2.1\org.jetbrains\annotations\13.0\919f0dfe192fb4e063e7dacadee7f8bb9a2672a9\annotations-13.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.1"
+        sha1="919f0dfe192fb4e063e7dacadee7f8bb9a2672a9">
+        <dex dex="F:\java\MyApplication\app\build\intermediates\pre-dexed\debug\annotations-13.0_30acb89639896b8d1cd94a7b9c1ad5f85403b992.jar" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="F:\java\MyApplication\app\build\intermediates\incremental-classes\debug\instant-run-bootstrap.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.1"
+        sha1="4f64a8a914007dfd3969f8cd6da9b2e9d2349c20">
+        <dex dex="F:\java\MyApplication\app\build\intermediates\transforms\dex\debug\folders\1000\10000\instant-run-bootstrap_5f347a703cbf5356f90f38dbe8b24898bfa6d651\classes.dex" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Administrator\.android\build-cache\9ed55b706faa2c028a756d478a20c36ff13ee5ff\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.1"
+        sha1="2e92aa0163544a804a0b34f169ca61801770839a">
+        <dex dex="F:\java\MyApplication\app\build\intermediates\pre-dexed\debug\classes_db0495ca556b01248ccf1715881c3848a3244bab.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Administrator\.android\build-cache\24bbda8c7de3e98c7c5b9be59f25e86734f8548b\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.1"
+        sha1="fcd01fd11233459f546c437ec927e9b61bf7caf1">
+        <dex dex="F:\java\MyApplication\app\build\intermediates\pre-dexed\debug\classes_5a766435f38747d825aa466ee4071d75843b9902.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="E:\Android\sdk\extras\m2repository\com\android\support\constraint\constraint-layout-solver\1.0.2\constraint-layout-solver-1.0.2.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.1"
+        sha1="b9cd8fc6bd15cb915735d34535db30ece0c44603">
+        <dex dex="F:\java\MyApplication\app\build\intermediates\pre-dexed\debug\constraint-layout-solver-1.0.2_2e3f7bbba17c57096a48cc2ed6b539464ef724d6.jar" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="F:\java\MyApplication\app\build\intermediates\incremental-runtime-classes\debug\instant-run.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.1"
+        sha1="c323c36ecc68965c4cfb460f7721113d2b61ed03">
+        <dex dex="F:\java\MyApplication\app\build\intermediates\transforms\dex\debug\folders\1000\10000\instant-run_d1debdd0dd52225679df183934acec7b7ebbe33b\classes.dex" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Administrator\.gradle\caches\modules-2\files-2.1\org.jetbrains.kotlinx\kotlinx-coroutines-android\0.13\c8e175ec16d443eda1373b809305abca5898eda3\kotlinx-coroutines-android-0.13.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.1"
+        sha1="c8e175ec16d443eda1373b809305abca5898eda3">
+        <dex dex="F:\java\MyApplication\app\build\intermediates\pre-dexed\debug\kotlinx-coroutines-android-0.13_c55c4e2929f032f749e99c29d714d2e3b8524727.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Administrator\.gradle\caches\modules-2\files-2.1\org.jetbrains.kotlinx\kotlinx-coroutines-core\0.13\8b461de23164cc3d9697ac41785cb54eae29e6eb\kotlinx-coroutines-core-0.13.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.1"
+        sha1="8b461de23164cc3d9697ac41785cb54eae29e6eb">
+        <dex dex="F:\java\MyApplication\app\build\intermediates\pre-dexed\debug\kotlinx-coroutines-core-0.13_e87d567a01f0ad2377c7f6de35d001cb9595521c.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Administrator\.android\build-cache\b47d5ec25b2542e72bf948bd01d91521ea6699ac\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.1"
+        sha1="952944218ecedea1554a513dec0c14d570642843">
+        <dex dex="F:\java\MyApplication\app\build\intermediates\pre-dexed\debug\classes_ee936a4553ed8302369e2a154146adb800548f0a.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Administrator\.gradle\caches\modules-2\files-2.1\org.jetbrains.anko\anko-coroutines\0.10.0\a20526c1cc0281e1c02d692aefeb0d4b21a5d437\anko-coroutines-0.10.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.1"
+        sha1="a20526c1cc0281e1c02d692aefeb0d4b21a5d437">
+        <dex dex="F:\java\MyApplication\app\build\intermediates\pre-dexed\debug\anko-coroutines-0.10.0_9f025f10c7c15b8af7b547c6d6c7f738a1619674.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Administrator\.android\build-cache\bf9ee0431810e70ad79c009cb6d73e5e03f9310a\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.1"
+        sha1="88246166d5afb106f532f6e6deae683c66b42c89">
+        <dex dex="F:\java\MyApplication\app\build\intermediates\pre-dexed\debug\classes_2267a9c1ee8b49340aeed1a9892fe92275292163.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Administrator\.android\build-cache\0c3950147a9424dfd07e0903cf93d9d416ce1141\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.1"
+        sha1="47471eb19df288158b00b8d9cfa41bce7373f5cc">
+        <dex dex="F:\java\MyApplication\app\build\intermediates\pre-dexed\debug\classes_80ed79ccb1892287da31d1176cbfbf96cdbbd880.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Administrator\.gradle\caches\modules-2\files-2.1\org.jetbrains.anko\anko-support-v4-commons\0.10.0\24a1355ff236618ab1d59d37cca3153cab8ee8e7\anko-support-v4-commons-0.10.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.1"
+        sha1="24a1355ff236618ab1d59d37cca3153cab8ee8e7">
+        <dex dex="F:\java\MyApplication\app\build\intermediates\pre-dexed\debug\anko-support-v4-commons-0.10.0_b468ef5a3a399c3ce5e7263bb7885970a995cd24.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Administrator\.gradle\caches\modules-2\files-2.1\org.jetbrains.anko\anko-support-v4\0.10.0\c782d02e35b643b659cab49e66c0d59bab7fc692\anko-support-v4-0.10.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.1"
+        sha1="c782d02e35b643b659cab49e66c0d59bab7fc692">
+        <dex dex="F:\java\MyApplication\app\build\intermediates\pre-dexed\debug\anko-support-v4-0.10.0_54073edf29d8fffd47a2783795f82e7338614912.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="E:\Android\sdk\extras\android\m2repository\com\android\support\support-annotations\26.0.0-alpha1\support-annotations-26.0.0-alpha1.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.1"
+        sha1="023ee503b631f69511e335a061ea008f8da60f40">
+        <dex dex="F:\java\MyApplication\app\build\intermediates\pre-dexed\debug\support-annotations-26.0.0-alpha1_f89c3b5a0fc1c0e1c1b1307f37a68e33027f3009.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Administrator\.gradle\caches\modules-2\files-2.1\org.jetbrains.anko\anko-appcompat-v7\0.10.0\6d7fa31d28cfd91f23f6377dce7b2df99035c105\anko-appcompat-v7-0.10.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.1"
+        sha1="6d7fa31d28cfd91f23f6377dce7b2df99035c105">
+        <dex dex="F:\java\MyApplication\app\build\intermediates\pre-dexed\debug\anko-appcompat-v7-0.10.0_0ee045a50aff7d67326b653adbaa35fbfc66512e.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Administrator\.android\build-cache\9192eda6ba91a4311b23c8025637b24174ea82e2\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.1"
+        sha1="9935891f23923f39d002087085d9696568a9f657">
+        <dex dex="F:\java\MyApplication\app\build\intermediates\pre-dexed\debug\classes_8c82b9f1fa1f22debbc37a8b073094a283b89d4d.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Administrator\.gradle\caches\modules-2\files-2.1\org.jetbrains.anko\anko-appcompat-v7-commons\0.10.0\39d366787ed60686da440037f9166cc598f854dc\anko-appcompat-v7-commons-0.10.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.1"
+        sha1="39d366787ed60686da440037f9166cc598f854dc">
+        <dex dex="F:\java\MyApplication\app\build\intermediates\pre-dexed\debug\anko-appcompat-v7-commons-0.10.0_cf669d44fea67a792ae0050b1d409949d6f80718.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Administrator\.gradle\caches\modules-2\files-2.1\org.jetbrains.anko\anko-sdk25-coroutines\0.10.0\60fb3a514321be393ffdd94a262fb43c427404be\anko-sdk25-coroutines-0.10.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.1"
+        sha1="60fb3a514321be393ffdd94a262fb43c427404be">
+        <dex dex="F:\java\MyApplication\app\build\intermediates\pre-dexed\debug\anko-sdk25-coroutines-0.10.0_ea43ae95731d8f51ed091ca6cb12557eebb4fe71.jar" />
+    </item>
+
+</items>
